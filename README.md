@@ -1,2 +1,2 @@
-created for: [The Next Movie](https://www.thenextmovie.com)
+created for: [The Next Movie](https://thenextmovie.com)
 
